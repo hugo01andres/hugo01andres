@@ -35,7 +35,7 @@ In my free time, I enjoy experimenting with new technologies, and learning about
 ## 📫 How to reach me
 
 - Email: [hugoandres01@live.com.mx](mailto:hugoandres01@live.com.mx)
-- LinkedIn: [Hugo Martinez]([https://www.linkedin.com/in/hugo01andres/])
+- LinkedIn: [Hugo Martinez](https://www.linkedin.com/in/hugo01andres/)
 - Twitter: [@hugo01andres](https://twitter.com/hugo01andres)
 - Instagram: [@hugo01andres](https://www.instagram.com/hugo01andres/)
 
